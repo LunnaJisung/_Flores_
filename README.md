@@ -1,2 +1,2 @@
 # _Flores_
-Estou um projeto sobre flores
+Estou fazendo um projeto sobre flores.
